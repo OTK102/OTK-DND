@@ -4,6 +4,10 @@
     width: 100%;
   }
 
+  thead {
+    background-color: coral;
+  }
+
   th, td {
     border: 1px solid black;
     padding: 8px;
