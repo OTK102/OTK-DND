@@ -1,5 +1,5 @@
-<style type="text/tailwindcss">
+@import "tailwindcss";
+
 @theme {
     --color-clifford: #da373d;
 }
-</style>
